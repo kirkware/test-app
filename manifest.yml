@@ -1,6 +1,6 @@
 ---
 applications:
-  - name: test-app
+  - name: test-app-green
     memory: 256M
     instances: 1
     random-route: true
